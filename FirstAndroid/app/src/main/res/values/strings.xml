@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstAndroid</string>
+    <string name="createContactBttn">Create Contact</string>
+    <string name="enter_name_text_View">Name: </string>
+    <string name="save_go_back">Save</string>
+    <string name="the_calling_activity">The calling activity</string>
+    <string name="textPreviousActivity"></string>
+    <string name="contact_phone_label">Phone:</string>
+    <string name="contact_email_label">Email:</string>
+    <string name="contact_address_label">Address:</string>
+    <string name="contact_here"></string>
+    <string name="contactCancel">Cancel</string>
+</resources>
